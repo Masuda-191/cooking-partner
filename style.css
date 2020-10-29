@@ -1,0 +1,43 @@
+.heading{color: white;
+background-image: url('food image/h.jpg');
+text-align: center;
+    width: 1263px;
+    height: 101px;
+    padding: 36px; 
+border: solid orange;}   
+.paragraph{background-color:rgb(240,190,109);
+padding: 48px;
+}
+.image{width: 150px;
+    height: 150px;
+    margin-left: 185px;
+    border-radius: 25px;
+    padding-bottom: 25px;
+}
+.table{
+margin-left: 367px;
+width: 663px; height: 228px;
+    padding: 1px;
+}
+#table-head{background-color:rgb(201,231,242);
+height: 44px;}
+.button{border-color: white;
+    color: white;
+    background-color: rgb(153,255,51);
+   width: 169px;
+    height: 54px;
+    margin-left: 1052px; 
+}
+#p-2{margin-left: 70px;
+margin-right: 70px;
+padding: 20px;
+ border-radius: 15px;}
+ .marquee{background-image: url('food image/g.jpg');
+ background-position: center;
+ color: rgb(0,255,255);
+border: dotted black;
+border-radius: 20px;
+background-repeat: no-repeat;
+background-size: cover;
+}
+#body{background-color: rgb(204,255,153);}
